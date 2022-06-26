@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--Construction-->
+  <DesignatorRemovePlumbing>Удалить трубы</DesignatorRemovePlumbing>
+  <DesignatorRemovePlumbingDesc>Выделить участки труб определенного типа для демонтажа.</DesignatorRemovePlumbingDesc>
+  <RemovePlumbing>Убрать сантехнику</RemovePlumbing>
+  <RemoveAirCon>Снять кондиционер</RemoveAirCon>
+
+  <!--Warnings-->
+  <LowCoolingCap>Низкая холодопроизводительность. Вы можете увеличить мощность наружных блоков.</LowCoolingCap>
+  <LowWaterTemp>Низкая температура воды</LowWaterTemp>
+  <LowWaterTempDesc>Температура воды в этом баке слишком низкая; колонисты, ожидающие горячей воды, могут раздражаться.\n\n Включите бойлеры, увеличьте мощность нагрева или добавьте еще один бак для горячей воды.</LowWaterTempDesc>
+
+  <!--Heating-->
+  <WaterTemp>Температура воды: {0}</WaterTemp>
+  <ConnectedHeatingCapacity>Подключить спрос/мощность: {0} / {1} U ({2})</ConnectedHeatingCapacity>
+  <ConnectedCoolingCapacity>Подключить спрос/мощность: {0} / {1} U ({2})</ConnectedCoolingCapacity>
+  <HeatingUnits>Использование отопления: {0} U</HeatingUnits>
+  <CoolingUnits>Использование охлаждения: {0} U</CoolingUnits>
+  <HeatingMode>Нагревательные приборы/мощность: {0} U / {1} W</HeatingMode>
+  <CoolingMode>Охлаждающие устройства/мощность: {0} U / {1} W</CoolingMode>
+  <CoolingEfficiencyGood>Эффективность: {0}</CoolingEfficiencyGood>
+  <CoolingEfficiencyBad>Эффективность: {0} перегрев</CoolingEfficiencyBad>
+  <TargetTemp>Минимальная температура: {0}</TargetTemp>
+  <LowerPower>Снизить мощность</LowerPower>
+  <LowerPowerDesc>Уменьшить мощность нагрева.</LowerPowerDesc>
+  <RaisePower>Увеличение мощности</RaisePower>
+  <RaisePowerDesc>Увеличить мощность нагрева.</RaisePowerDesc>
+  <HotwaterCapacity>Мощность горячей воды: {0}</HotwaterCapacity>
+  <OverrideThermostat>Переопределить термостат</OverrideThermostat>
+  <OverrideThermostatDesc>Заставить котел работать непрерывно.</OverrideThermostatDesc>
+  <MustPlaceFreezerWithFreeSpaces>Вытяжные отверстия должны быть свободными!</MustPlaceFreezerWithFreeSpaces>
+  <SolarEfficiencyCold>Слишком холодно</SolarEfficiencyCold>
+  <SolarEfficiencyRoof>Крыша</SolarEfficiencyRoof>
+  <SolarEfficiencyGood>Отопительные агрегаты (Эффективность): {0} U ({1})</SolarEfficiencyGood>
+  <RadCurrentCap>Температура радиатора: {0}</RadCurrentCap>
+  <ThermostatSetupWarning>Термостат перекрывается баками горячей воды. Переведите все подключенные баки для горячей воды в режим термостата.</ThermostatSetupWarning>
+  <HotWaterTankUseThermostat>Управление термостатом</HotWaterTankUseThermostat>
+  <HotWaterTankUseThermostatDesc>Включение бойлеров на 1 час при низкой температуре в баке. Если эта функция отключена, то котлы будут работать постоянно и игнорировать комнатные термостаты.</HotWaterTankUseThermostatDesc>
+
+  <!--Water-->
+  <CommandDesignateOpenCloseValveLabel>Переключить клапан</CommandDesignateOpenCloseValveLabel>
+  <CommandDesignateOpenCloseValveDesc>Переключите клапан между открытым и закрытым положениями.</CommandDesignateOpenCloseValveDesc>
+  <ValveClosed>Клапан закрыт</ValveClosed>
+
+  <!--Mod Options-->
+  <dbh.restartconfirm>Перезапустить</dbh.restartconfirm>
+  <dbh.ModRemove>Помощь в удалении мода</dbh.ModRemove>
+  <dbh.ModRemoveDesc>Шаги:\n\n1: Сохраните игру сразу после нажатия кнопки подтверждения\n2: Выйдите в главное меню, отключите мод и перезапустите игру\n3: Загрузите свое сохранение, проигнорируйте все исключения и сохраните его снова\n\nЗагрузите сохранение еще раз, и не должно быть никаких исключений!</dbh.ModRemoveDesc>
+  <QuitToMenuToChange>Выйдите в главное меню для изменения.</QuitToMenuToChange>
+  <CoolingEfficiency>Эффективность охлаждения</CoolingEfficiency>
+  <CoolingEfficiencyTip>Установите, должна ли высокая температура влиять на эффективность охлаждения, как у стандартного кондиционера</CoolingEfficiencyTip>
+  <MainFeatures>Основные характеристики</MainFeatures>
+  <ExperimentalFeatures>Экспериментальные характеристики</ExperimentalFeatures>
+  <dbh.ExtraFeatures>Дополнительные возможности</dbh.ExtraFeatures>
+
+  <HygieneWiki>Bad Hygiene Wiki</HygieneWiki>
+  <HygieneWikiDesc>Перейти к Bad Hygiene Wiki</HygieneWikiDesc>
+
+</LanguageData>
